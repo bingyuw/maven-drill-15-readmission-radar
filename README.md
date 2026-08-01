@@ -132,7 +132,7 @@ Executing the query in MySQL returns the readmission rate:
 |----------------------------------------|
 | 37                                                |
 
-*This means approximately **37%** of discharges resulted in a readmission within 30 days.
+*This means approximately **37%** of discharges resulted in a readmission within 30 days.*
 
 ---
 
